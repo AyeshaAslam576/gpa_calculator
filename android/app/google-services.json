@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "813299017608",
+    "project_id": "gpa-calculator-e4e31",
+    "storage_bucket": "gpa-calculator-e4e31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813299017608:android:83d4e70e1125d969133c3d",
+        "android_client_info": {
+          "package_name": "com.example.gpacalculator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCorCz7egrCDKeHSsBFL2g7DLgJUfJ04oU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
